@@ -1,0 +1,16 @@
+{
+  "keyboard": "macro3",
+  "keymap": "default",
+  "commit": "b5a53a994652e1fda5dbb5a3af2fd85e4ecaa951",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "KC_MUTE", "KC_MPLY", "KC_MRWD", "LT(1,KC_MFFD)",
+      "C(KC_Z)", "C(KC_X)", "C(KC_C)", "C(KC_V)"
+    ],
+    [
+      "_______", "_______", "_______", "_______",
+      "QK_BOOT", "_______", "_______", "_______"
+    ]
+  ]
+}
